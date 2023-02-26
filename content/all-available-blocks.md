@@ -67,7 +67,7 @@ image = "/uploads/2018/06/21/product-shot-1.png"
 block = "feature-1"
 content = "Doesn't look like <strong>anything to me.</strong>"
 headline = "Lorem ipsum Dolores"
-media_alignment = "Left"
+media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
 alt_text = "App preview"
